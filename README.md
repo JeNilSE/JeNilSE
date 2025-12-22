@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hello world and welcome to my Github page! 👋 My name is Jesper
 
-<!--
-**JeNilSE/JeNilSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In this README you will find information about what I currently have knowledge about or what I'm focusing on learning more about.
 
-Here are some ideas to get you started:
+I am an **IT Security Student** based in Sweden, passionate about network security, automation, system hardening, servers, IoT, and virtualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My portfolio is currently under construction and will hopefully be for the rest of my life. Right now, I'm focusing on learning how to secure network infrastructure from the ground up (and anything else I have time for during my free time).
+
+---
+
+### 🛠️ Skills & Tools
+* **Security Hardening:** UFW, Fail2Ban, Lynis, Automated Patch Management
+* **Virtualization & Infra:** Proxmox VE, Docker (Compose), VirtualBox/VMware, LXC
+* **Networking:** Cisco Packet Tracer (Routing, Switching, VLANs), TCP/IP, Nmap
+* **Secure Access:** Tailscale (Mesh VPN), VPN Configuration, SSH Hardening
+* **Identity & Services:** Active Directory, PKI
+* **Scripting:** Bash, PowerShell
+* **OS:** Linux (Ubuntu/Debian/Kali), Windows (Server, 10/11)
+
+### 🔭 Current Focus
+* 🛡️ Linux and Windows server hardening (Defense in Depth)
+* 🐳 Managing containerized services securely with Docker
+* 🕸️ Designing secure network segments
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/JeNilSE)

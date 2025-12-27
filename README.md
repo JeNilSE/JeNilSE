@@ -17,8 +17,8 @@ My portfolio is currently under construction and will hopefully be for the rest 
 * **Scripting:** Bash, PowerShell
 * **OS:** Linux (Ubuntu/Debian/Kali), Windows (Server, 10/11)
 
-### 🔭 Current Focus
-* 🛡️ Linux and Windows server hardening (Defense in Depth)
+### ⚜️ Quest Log
+* 💠 In my quest log repository I have documented what I'm currently working on, my plans for the future and my dreams. Feel free to take a look! Some examples from the quest log down below.
 * 🐳 Managing containerized services securely with Docker
 * 🕸️ Designing secure network segments
 

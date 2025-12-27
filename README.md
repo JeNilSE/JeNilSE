@@ -1,14 +1,15 @@
-### 👋 Hello World! This GitHub page belongs to me, Jesper, and this is where I document everything and anything I work on or have worked on. Feel free to have a look at my repositories!
+# 👋 Hello World!
 
-In this README you will find information about what I currently have knowledge about or what I'm focusing on learning more about.
+This GitHub page belongs to me, **Jesper**, and this is where I document everything and anything I work on. Feel free to have a look at my repositories!
 
-At the moment I'm studying **IT Security** so I can fulfill my dream to enter the **CyberSec** field. I live in Sweden and I'm very passionate about most things that are IT related. I have my own Home-Lab and I use it for pretty much anything I can, from VMs and containers in proxmox to storage and backup solutions. If I find anything interesting I will most likely have it running on my server as soon as I can.
+In this README you will find information about my current skills and what I'm focusing on learning.
 
-My portfolio is currently under construction and will hopefully be for the rest of my life. Right now, I'm focusing on learning how to secure network infrastructure from the ground up (and anything else I have time for during my free time).
+At the moment I'm studying **IT Security** with the dream of entering the **CyberSec** field. I live in Sweden 🇸🇪 and I'm passionate about all things IT. I run my own **Home-Lab** where I host everything from VMs and containers in **Proxmox** to storage and backup solutions. If I find something that's interesting, it will likely be running on my server by the next day.
 
----
+My portfolio is currently under construction and will **hopefully be for the rest of my life**. Right now, I'm focusing on learning how to secure network infrastructure from the ground up (and anything else I have time for).
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
+
 * **Security Hardening:** UFW, Fail2Ban, Lynis, Automated Patch Management
 * **Virtualization & Infra:** Proxmox VE, Docker (Compose), VirtualBox/VMware, LXC
 * **Networking:** Cisco Packet Tracer (Routing, Switching, VLANs), TCP/IP, Nmap
@@ -17,12 +18,14 @@ My portfolio is currently under construction and will hopefully be for the rest 
 * **Scripting:** Bash, PowerShell
 * **OS:** Linux (Ubuntu/Debian/Kali), Windows (Server, 10/11)
 
-### ⚜️ Quest Log
-* 💠 In my quest log repository I have documented what I'm currently working on, my plans for the future and my dreams. Feel free to take a look! Some examples from the quest log down below.
+## ⚜️ Quest Log
+
+In my **[Quest Log Repository](https://github.com/JeNilSE/Quest-Log)** I have documented what I'm working on right now, my plans for the future, and my achievements. Feel free to sneak a peek!
+
+**Current Quests:**
 * 🐍 Learning Python
-* 📜 Studying for different certificates (ex. az-900, ISC2 CC)
+* 📜 Studying for certificates (e.g. AZ-900, ISC2 CC)
 
 ---
-
 ### 🤝 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/JeNilSE)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/JeNilSE)

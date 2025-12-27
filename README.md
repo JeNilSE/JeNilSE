@@ -1,8 +1,8 @@
-### Hello world and welcome to my Github page! 👋 My name is Jesper
+### 👋 Hello World! This GitHub page belongs to me, Jesper, and this is where I document everything and anything I work on or have worked on. Feel free to have a look at my repositories!
 
 In this README you will find information about what I currently have knowledge about or what I'm focusing on learning more about.
 
-I am an **IT Security Student** based in Sweden, passionate about network security, automation, system hardening, servers, IoT, and virtualization.
+At the moment I'm studying **IT Security** so I can fulfill my dream to enter the **CyberSec** field. I live in Sweden and I'm very passionate about most things that are IT related. I have my own Home-Lab and I use it for pretty much anything I can, from VMs and containers in proxmox to storage and backup solutions. If I find anything interesting I will most likely have it running on my server as soon as I can.
 
 My portfolio is currently under construction and will hopefully be for the rest of my life. Right now, I'm focusing on learning how to secure network infrastructure from the ground up (and anything else I have time for during my free time).
 

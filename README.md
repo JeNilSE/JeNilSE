@@ -19,10 +19,10 @@ My portfolio is currently under construction and will hopefully be for the rest 
 
 ### ⚜️ Quest Log
 * 💠 In my quest log repository I have documented what I'm currently working on, my plans for the future and my dreams. Feel free to take a look! Some examples from the quest log down below.
-* 🐳 Managing containerized services securely with Docker
-* 🕸️ Designing secure network segments
+* 🐍 Learning Python
+* 📜 Studying for different certificates (ex. az-900, ISC2 CC)
 
 ---
 
-### 📫 Connect with me
+### 🤝 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/JeNilSE)

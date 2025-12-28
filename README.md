@@ -8,7 +8,7 @@ At the moment I'm studying **IT Security** with the dream of entering the **Cybe
 
 My portfolio is currently under construction and will **hopefully be for the rest of my life**. Right now, I'm focusing on learning how to secure network infrastructure from the ground up (and anything else I have time for).
 
-## 🛠️ Skills & Tools
+## 🐧 Skills (Learning in progress...)
 
 * **Security Hardening:** UFW, Fail2Ban, Lynis, Automated Patch Management
 * **Virtualization & Infra:** Proxmox VE, Docker (Compose), VirtualBox/VMware, LXC

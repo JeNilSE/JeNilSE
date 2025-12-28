@@ -24,7 +24,7 @@ In my **[Quest Log Repository](https://github.com/JeNilSE/Quest-Log)** I have do
 
 **Current Quests:**
 * 🐍 Learning Python
-* 📜 Studying for certificates (e.g. AZ-900, ISC2 CC)
+* 📜 Studying for certificates (e.g. AZ-900, CCST)
 
 ---
 ### 🤝 Connect with me
